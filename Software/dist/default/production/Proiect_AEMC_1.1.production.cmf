@@ -1,0 +1,607 @@
+%CMF
+# %PSECTS Section
+# For each object file, details of its psects are enumerated here.
+# The begining of the section is indicated by %PSECTS.  The first
+# line indicates the name of the first object file, e.g.
+#    $foo.obj
+# Each line that follows describes a psect in that object file, until
+# the next object file.  The lines that describe a psect have the
+# format:
+#    <psect name> <class name> <space> <link address> <load addresses> <length> <delta> <reloc>
+# All addresses and the length are given in unqualified hexadecimal
+# in delta units.  Any other numeric values are decimal.
+%PSECTS
+$dist/default/production\Proiect_AEMC_1.1.production.o
+cinit CODE 0 7E7 7E7 19 2 1
+idloc IDLOC 5 2000 2000 4 2 1
+text1 CODE 0 530 530 A6 2 1
+text2 CODE 0 5D6 5D6 D8 2 1
+text3 CODE 0 452 452 23 2 1
+text4 CODE 0 387 387 9 2 1
+text5 CODE 0 3B2 3B2 C 2 1
+text6 CODE 0 370 370 5 2 1
+text7 CODE 0 475 475 25 2 1
+text8 CODE 0 3FE 3FE 1B 2 1
+text9 CODE 0 419 419 1C 2 1
+text10 CODE 0 49A 49A 96 2 1
+text11 CODE 0 39B 39B B 2 1
+text12 CODE 0 3E4 3E4 1A 2 1
+text13 CODE 0 3CB 3CB 19 2 1
+text14 CODE 0 435 435 1D 2 1
+text15 CODE 0 390 390 B 2 1
+text16 CODE 0 37E 37E 9 2 1
+text17 CODE 0 375 375 9 2 1
+text18 CODE 0 3BE 3BE D 2 1
+text19 CODE 0 3A6 3A6 C 2 1
+nvBANK0 BANK0 1 2E 2E 1 1 1
+maintext CODE 0 6AE 6AE 139 2 1
+cstackCOMMON COMMON 1 70 70 D 1 1
+bssBANK0 BANK0 1 20 20 E 1 1
+idataBANK0 CODE 0 36F 36F 1 2 1
+strings STRING 0 3 3 25 2 1
+dataBANK0 BANK0 1 2F 2F 1 1 1
+bssCOMMON COMMON 1 7D 7D 1 1 1
+config CONFIG 4 2007 2007 2 2 1
+$C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+idloc IDLOC 5 2000 2000 4 2 1
+end_init CODE 0 0 0 3 2 1
+config CONFIG 4 2007 2007 2 2 1
+# %UNUSED Section
+# This section enumerates the unused ranges of each CLASS. Each entry
+# is described on a single line as follows:
+#    <class name> <range> <delta>
+# Addresses given in the range are in hexadecimal and units of delta.
+%UNUSED
+RAM 30-6F 1
+RAM A0-EF 1
+RAM 110-16F 1
+RAM 190-1EF 1
+BANK0 30-6F 1
+BANK1 A0-EF 1
+BANK2 110-16F 1
+BANK3 190-1EF 1
+CONST 28-36E 2
+CONST 800-1FFF 2
+ENTRY 28-36E 2
+ENTRY 800-1FFF 2
+CODE 28-36E 2
+CODE 800-1FFF 2
+SFR0 0-1F 1
+SFR1 80-9F 1
+SFR2 100-10F 1
+SFR3 180-18F 1
+EEDATA 2100-21FF 2
+STRCODE 28-36E 2
+STRCODE 800-1FFF 2
+STRING 28-36E 2
+STRING 800-1FFF 2
+# %LINETAB Section
+# This section enumerates the file/line to address mappings.
+# The beginning of the section is indicated by %LINETAB.
+# The first line indicates the name of the first object file, e.g.
+#   $foo.obj
+# Each line that follows describes a single mapping until the next
+# object file.  Mappings have the following format:
+#    <address> <psect name> <class name> ><line number>:<file name>
+# The address is absolute and given given in unqualified hex 
+# in delta units of the psect. All mappings within an object file
+# are in ascending order of addresses.
+# All other numeric values are in decimal.
+%LINETAB
+$dist/default/production\Proiect_AEMC_1.1.production.o
+7E7 cinit CODE >880:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7E7 cinit CODE >883:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7E7 cinit CODE >927:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7EC cinit CODE >928:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7ED cinit CODE >932:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7EE cinit CODE >933:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7EF cinit CODE >934:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F0 cinit CODE >935:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F1 cinit CODE >936:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F2 cinit CODE >937:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F3 cinit CODE >938:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F4 cinit CODE >939:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F5 cinit CODE >940:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F6 cinit CODE >941:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F7 cinit CODE >942:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F8 cinit CODE >943:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7F9 cinit CODE >944:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7FA cinit CODE >945:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7FB cinit CODE >948:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7FC cinit CODE >954:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7FC cinit CODE >956:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+7FD cinit CODE >957:C:\Users\irina\AppData\Local\Temp\xcAsesg.s
+3A6 text19 CODE >7:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3A6 text19 CODE >8:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3AA text19 CODE >9:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3AB text19 CODE >10:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3AE text19 CODE >12:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3AF text19 CODE >13:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3B1 text19 CODE >14:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3BE text18 CODE >16:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3BE text18 CODE >17:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3CA text18 CODE >21:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+375 text17 CODE >23:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+375 text17 CODE >24:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+37A text17 CODE >25:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+37D text17 CODE >26:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+37E text16 CODE >39:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+37E text16 CODE >40:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+383 text16 CODE >41:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+386 text16 CODE >42:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+390 text15 CODE >44:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+391 text15 CODE >45:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+396 text15 CODE >46:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+39A text15 CODE >47:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+39A text15 CODE >48:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+435 text14 CODE >87:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+436 text14 CODE >88:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+43B text14 CODE >89:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+443 text14 CODE >90:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+44C text14 CODE >91:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+451 text14 CODE >92:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3CB text13 CODE >94:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3CC text13 CODE >95:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3D0 text13 CODE >96:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3D7 text13 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3DE text13 CODE >98:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3E3 text13 CODE >99:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3E4 text12 CODE >101:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3E5 text12 CODE >102:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3E6 text12 CODE >103:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3ED text12 CODE >104:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3F0 text12 CODE >104:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3F3 text12 CODE >104:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3F5 text12 CODE >104:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3FD text12 CODE >105:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+39B text11 CODE >145:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+39B text11 CODE >146:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3A1 text11 CODE >147:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3A5 text11 CODE >148:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+49A text10 CODE >65:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+49B text10 CODE >66:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+49F text10 CODE >68:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4A7 text10 CODE >69:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4AD text10 CODE >70:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4B6 text10 CODE >71:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4BC text10 CODE >72:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4C5 text10 CODE >73:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4CB text10 CODE >74:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4D4 text10 CODE >75:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4DA text10 CODE >76:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4E3 text10 CODE >77:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4E9 text10 CODE >78:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4F6 text10 CODE >79:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+4FC text10 CODE >80:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+509 text10 CODE >81:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+50F text10 CODE >82:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+51C text10 CODE >83:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+522 text10 CODE >84:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+52F text10 CODE >85:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+419 text9 CODE >118:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+41A text9 CODE >119:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+41F text9 CODE >120:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+427 text9 CODE >121:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+42D text9 CODE >122:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+434 text9 CODE >123:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3FE text8 CODE >107:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+3FF text8 CODE >108:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+401 text8 CODE >109:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+408 text8 CODE >110:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+40B text8 CODE >110:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+40E text8 CODE >110:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+410 text8 CODE >110:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+418 text8 CODE >111:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+475 text7 CODE >113:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+476 text7 CODE >114:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+479 text7 CODE >115:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+488 text7 CODE >115:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+495 text7 CODE >115:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+499 text7 CODE >116:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+370 text6 CODE >39:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+371 text6 CODE >40:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+374 text6 CODE >41:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+3B2 text5 CODE >35:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+3B3 text5 CODE >36:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+3B6 text5 CODE >36:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+3B9 text5 CODE >36:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+3BD text5 CODE >37:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+387 text4 CODE >34:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+387 text4 CODE >35:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+38C text4 CODE >36:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+38F text4 CODE >37:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+452 text3 CODE >50:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+453 text3 CODE >52:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+458 text3 CODE >53:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+45B text3 CODE >55:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+460 text3 CODE >56:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+464 text3 CODE >58:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+469 text3 CODE >59:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+470 text3 CODE >60:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+473 text3 CODE >61:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+474 text3 CODE >62:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\i2c.c
+5D6 text2 CODE >101:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5D7 text2 CODE >102:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5D8 text2 CODE >104:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5DD text2 CODE >105:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5E3 text2 CODE >106:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5E9 text2 CODE >107:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5EE text2 CODE >108:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5F4 text2 CODE >109:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+602 text2 CODE >110:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+607 text2 CODE >111:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+608 text2 CODE >114:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+60D text2 CODE >115:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+613 text2 CODE >116:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+619 text2 CODE >117:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+61E text2 CODE >118:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+624 text2 CODE >119:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+632 text2 CODE >120:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+637 text2 CODE >121:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+638 text2 CODE >124:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+63D text2 CODE >125:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+643 text2 CODE >126:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+649 text2 CODE >127:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+64E text2 CODE >128:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+654 text2 CODE >129:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+662 text2 CODE >130:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+667 text2 CODE >132:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+667 text2 CODE >133:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+66C text2 CODE >134:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+672 text2 CODE >135:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+678 text2 CODE >136:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+67D text2 CODE >137:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+683 text2 CODE >138:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+691 text2 CODE >139:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+696 text2 CODE >140:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+697 text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+69C text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6A1 text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6A4 text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6A7 text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6AA text2 CODE >143:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6AD text2 CODE >147:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+530 text1 CODE >63:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+531 text1 CODE >64:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+532 text1 CODE >66:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+537 text1 CODE >67:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+53D text1 CODE >68:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+543 text1 CODE >69:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+548 text1 CODE >70:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+54E text1 CODE >71:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+55C text1 CODE >72:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+561 text1 CODE >73:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+562 text1 CODE >76:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+567 text1 CODE >77:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+56D text1 CODE >78:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+573 text1 CODE >79:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+578 text1 CODE >80:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+57E text1 CODE >81:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+58C text1 CODE >82:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+591 text1 CODE >83:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+592 text1 CODE >86:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+597 text1 CODE >87:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+59D text1 CODE >88:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5A3 text1 CODE >89:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5A8 text1 CODE >90:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5AE text1 CODE >91:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5BC text1 CODE >92:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5C1 text1 CODE >93:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5C2 text1 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5C7 text1 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5CC text1 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5CF text1 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5D2 text1 CODE >97:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+5D5 text1 CODE >98:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\rtc.c
+6AE maintext CODE >16:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6AE maintext CODE >18:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6B4 maintext CODE >19:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6B5 maintext CODE >20:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6B6 maintext CODE >21:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6BB maintext CODE >22:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6C1 maintext CODE >24:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6C9 maintext CODE >25:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6CF maintext CODE >26:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6DC maintext CODE >28:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6E1 maintext CODE >29:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6E9 maintext CODE >32:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6EF maintext CODE >33:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6F5 maintext CODE >34:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+6FB maintext CODE >36:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+701 maintext CODE >37:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+707 maintext CODE >38:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+70D maintext CODE >39:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+713 maintext CODE >42:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+71B maintext CODE >43:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+721 maintext CODE >44:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+72E maintext CODE >45:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+73B maintext CODE >46:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+741 maintext CODE >47:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+74E maintext CODE >48:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+75B maintext CODE >49:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+761 maintext CODE >50:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+76E maintext CODE >51:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+77B maintext CODE >53:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+783 maintext CODE >54:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+789 maintext CODE >62:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+796 maintext CODE >63:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7A3 maintext CODE >64:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7A9 maintext CODE >65:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7B6 maintext CODE >66:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7C3 maintext CODE >67:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7C9 maintext CODE >69:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+7D6 maintext CODE >70:D:\Facultate Offline\AEMC\Proiect\Soft\Proiect AEMC_1.1\main.c
+# %SYMTAB Section
+# An enumeration of all symbols in the program.
+# The beginning of the section is indicated by %SYMTAB.
+# Each line describes a single symbol as follows:
+#    <label> <value> [-]<load-adj> <class> <space> <psect> <file-name>
+# The value and load-adj are both in unqualified hexadecimal.
+# All other numeric values are in decimal.  The load-adj is the
+# quantity one needs to add to the symbol value in order to obtain the load
+# address of the symbol.  This value may be signed. If the symbol
+# was defined in a psect then <psect> will be "-". File-name
+# is the name of the object file in which the symbol was defined.
+%SYMTAB
+___latbits 2 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__LdataBANK0 0 0 ABS 0 dataBANK0 -
+__Hspace_0 800 0 ABS 0 - -
+__Hspace_1 7E 0 ABS 0 - -
+__Hspace_2 0 0 ABS 0 - -
+__Hspace_3 0 0 ABS 0 - -
+__Hspace_4 4010 0 ABS 0 - -
+__HidataBANK0 0 0 ABS 0 idataBANK0 -
+_lcd_writeString 8EA 0 CODE 0 text7 dist/default/production\Proiect_AEMC_1.1.production.o
+__Heeprom_data 0 0 EEDATA 3 eeprom_data -
+_RS 7D 0 COMMON 1 bssCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__Hstrings 0 0 ABS 0 strings -
+___sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+_date 24 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_hour 28 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_main D5C 0 CODE 0 maintext dist/default/production\Proiect_AEMC_1.1.production.o
+_year 20 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+btemp 7E 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_lcd_write4Bit 796 0 CODE 0 text13 dist/default/production\Proiect_AEMC_1.1.production.o
+_lcd_writeChar 7FC 0 CODE 0 text8 dist/default/production\Proiect_AEMC_1.1.production.o
+rtc_readTime@clock_address 74 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+i2c_readByte@incoming_data 71 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+start 0 0 CODE 0 init C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+__HbssCOMMON 0 0 ABS 0 bssCOMMON -
+__LidataBANK0 0 0 ABS 0 idataBANK0 -
+__Hpowerup 0 0 CODE 0 powerup -
+_lcd_setCursor 832 0 CODE 0 text9 dist/default/production\Proiect_AEMC_1.1.production.o
+_rtc_convUpperNibble 764 0 CODE 0 text5 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_lcd_clear 74C 0 CODE 0 text11 dist/default/production\Proiect_AEMC_1.1.production.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+__LbssCOMMON 0 0 ABS 0 bssCOMMON -
+wtemp0 7E 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__Hfunctab 0 0 ENTRY 0 functab -
+__Hclrtext 0 0 ABS 0 clrtext -
+_lcd_clear 736 0 CODE 0 text11 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_lcd_cmd 7FC 0 CODE 0 text12 dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPCONbits 14 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_i2c_add 2E 0 BANK0 1 nvBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_i2c_masterInit 74C 0 CODE 0 text19 dist/default/production\Proiect_AEMC_1.1.production.o
+_i2c_masterStop 6FC 0 CODE 0 text16 dist/default/production\Proiect_AEMC_1.1.production.o
+_i2c_masterWait 77C 0 CODE 0 text18 dist/default/production\Proiect_AEMC_1.1.production.o
+__Lmaintext 0 0 ABS 0 maintext -
+__LnvBANK0 0 0 ABS 0 nvBANK0 -
+___stackhi 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+___stacklo 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+_i2c_readByte 8A4 0 CODE 0 text3 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_rtc_convUpperNibble 77C 0 CODE 0 text5 dist/default/production\Proiect_AEMC_1.1.production.o
+start_initialization FCE 0 CODE 0 cinit dist/default/production\Proiect_AEMC_1.1.production.o
+lcd_writeString@str 78 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+_OSCCON 8F 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_TRISCbits 87 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_ACKSTAT 48E 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_lcd_write4Bit 7C8 0 CODE 0 text13 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_lcd_writeChar 832 0 CODE 0 text8 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_i2c_masterInit 764 0 CODE 0 text19 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_i2c_masterStop 70E 0 CODE 0 text16 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_i2c_masterWait 796 0 CODE 0 text18 dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPADD 93 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPBUF 13 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_lcd_setCursor 86A 0 CODE 0 text9 dist/default/production\Proiect_AEMC_1.1.production.o
+_rtc_readDate BAC 0 CODE 0 text2 dist/default/production\Proiect_AEMC_1.1.production.o
+_rtc_readTime A60 0 CODE 0 text1 dist/default/production\Proiect_AEMC_1.1.production.o
+rtc_convUpperNibble@digit 71 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+___int_sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+__Hbank0 0 0 ABS 0 bank0 -
+__Hbank1 0 0 ABS 0 bank1 -
+__Hbank2 0 0 ABS 0 bank2 -
+__Hbank3 0 0 ABS 0 bank3 -
+__Hcinit 1000 0 CODE 0 cinit -
+__Hidloc 4008 0 IDLOC 5 idloc -
+__Hstack 0 0 STACK 2 stack -
+__stringbase 10 0 STRING 0 strings dist/default/production\Proiect_AEMC_1.1.production.o
+__Hmaintext 0 0 ABS 0 maintext -
+__Hcommon 0 0 ABS 0 common -
+__Hconfig 4012 0 CONFIG 4 config -
+lcd_setCursor@col 76 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+lcd_setCursor@row 77 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__Lbank0 0 0 ABS 0 bank0 -
+__Lbank1 0 0 ABS 0 bank1 -
+__Lbank2 0 0 ABS 0 bank2 -
+__Lbank3 0 0 ABS 0 bank3 -
+__Lcinit FCE 0 CODE 0 cinit -
+__end_of_i2c_readByte 8EA 0 CODE 0 text3 dist/default/production\Proiect_AEMC_1.1.production.o
+__Lidloc 0 0 IDLOC 5 idloc -
+__Lstack 0 0 STACK 2 stack -
+__Habs1 0 0 ABS 0 abs1 -
+__Hcode 0 0 ABS 0 code -
+__Hinit 0 0 CODE 0 init -
+__Hsfr0 0 0 ABS 0 sfr0 -
+__Hsfr1 0 0 ABS 0 sfr1 -
+__Hsfr2 0 0 ABS 0 sfr2 -
+__Hsfr3 0 0 ABS 0 sfr3 -
+__Htext 0 0 ABS 0 text -
+__Labs1 0 0 ABS 0 abs1 -
+__Lcode 0 0 ABS 0 code -
+__Linit 0 0 CODE 0 init -
+__Lsfr0 0 0 ABS 0 sfr0 -
+__Lsfr1 0 0 ABS 0 sfr1 -
+__Lsfr2 0 0 ABS 0 sfr2 -
+__Lsfr3 0 0 ABS 0 sfr3 -
+__Ltext 0 0 ABS 0 text -
+__pnvBANK0 2E 0 BANK0 1 nvBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+__HcstackCOMMON 0 0 ABS 0 cstackCOMMON -
+__S0 800 0 ABS 0 - -
+__S1 7E 0 ABS 0 - -
+__S3 0 0 ABS 0 - -
+_day 26 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_min 2A 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_sec 2C 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_rtc_readDate D5C 0 CODE 0 text2 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_rtc_readTime BAC 0 CODE 0 text1 dist/default/production\Proiect_AEMC_1.1.production.o
+_lcd_init 934 0 CODE 0 text10 dist/default/production\Proiect_AEMC_1.1.production.o
+__HnvBANK0 0 0 ABS 0 nvBANK0 -
+__Lintentry 0 0 CODE 0 intentry -
+__stringtab 6 0 STRING 0 strings dist/default/production\Proiect_AEMC_1.1.production.o
+_lcd_cmd 7C8 0 CODE 0 text12 dist/default/production\Proiect_AEMC_1.1.production.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\irina\AppData\Local\Temp\xcAsesg.o
+__pdataBANK0 2F 0 BANK0 1 dataBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+lcd_init@i2c_Add 79 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__LbssBANK0 0 0 ABS 0 bssBANK0 -
+__end_of_lcd_init A60 0 CODE 0 text10 dist/default/production\Proiect_AEMC_1.1.production.o
+_rtc_convLowerNibble 6E0 0 CODE 0 text6 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext10 934 0 CODE 0 text10 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext11 736 0 CODE 0 text11 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext12 7C8 0 CODE 0 text12 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext13 796 0 CODE 0 text13 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext14 86A 0 CODE 0 text14 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext15 720 0 CODE 0 text15 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext16 6FC 0 CODE 0 text16 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext17 6EA 0 CODE 0 text17 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext18 77C 0 CODE 0 text18 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext19 74C 0 CODE 0 text19 dist/default/production\Proiect_AEMC_1.1.production.o
+__pmaintext D5C 0 CODE 0 maintext dist/default/production\Proiect_AEMC_1.1.production.o
+__Lcommon 0 0 ABS 0 common -
+__Lconfig 0 0 CONFIG 4 config -
+lcd_writeString@i 76 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+lcd_writeChar@data 75 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+rtc_convLowerNibble@digit 70 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+_io_expanderWrite 86A 0 CODE 0 text14 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_i2c_masterStart 6FC 0 CODE 0 text17 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_i2c_masterWrite 736 0 CODE 0 text15 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of__stringtab 12 0 STRING 0 strings dist/default/production\Proiect_AEMC_1.1.production.o
+__Lspace_0 0 0 ABS 0 - -
+__Lspace_1 0 0 ABS 0 - -
+__Lspace_2 0 0 ABS 0 - -
+__Lspace_3 0 0 ABS 0 - -
+__Lspace_4 0 0 ABS 0 - -
+__pbssCOMMON 7D 0 COMMON 1 bssCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+lcd_cmd@cmd 75 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__Lend_init 0 0 CODE 0 end_init -
+__LcstackCOMMON 0 0 ABS 0 cstackCOMMON -
+end_of_initialization FF8 0 CODE 0 cinit dist/default/production\Proiect_AEMC_1.1.production.o
+__Hintentry 0 0 CODE 0 intentry -
+__Lstrings 0 0 ABS 0 strings -
+_i2c_masterRepeatedStart 70E 0 CODE 0 text4 dist/default/production\Proiect_AEMC_1.1.production.o
+__Hreset_vec 0 0 CODE 0 reset_vec -
+__HbssBANK0 0 0 ABS 0 bssBANK0 -
+__end_of_i2c_masterRepeatedStart 720 0 CODE 0 text4 dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPCON2bits 91 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext1 A60 0 CODE 0 text1 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext2 BAC 0 CODE 0 text2 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext3 8A4 0 CODE 0 text3 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext4 70E 0 CODE 0 text4 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext5 764 0 CODE 0 text5 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext6 6E0 0 CODE 0 text6 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext7 8EA 0 CODE 0 text7 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext8 7FC 0 CODE 0 text8 dist/default/production\Proiect_AEMC_1.1.production.o
+__ptext9 832 0 CODE 0 text9 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_rtc_convLowerNibble 6EA 0 CODE 0 text6 dist/default/production\Proiect_AEMC_1.1.production.o
+__Lpowerup 0 0 CODE 0 powerup -
+__Leeprom_data 0 0 EEDATA 3 eeprom_data -
+_i2c_masterStart 6EA 0 CODE 0 text17 dist/default/production\Proiect_AEMC_1.1.production.o
+_i2c_masterWrite 720 0 CODE 0 text15 dist/default/production\Proiect_AEMC_1.1.production.o
+i2c_masterWrite@data 70 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__Lreset_vec 0 0 CODE 0 reset_vec -
+i2c_readByte@ack 70 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of__initialization FF8 0 CODE 0 cinit dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_io_expanderWrite 8A4 0 CODE 0 text14 dist/default/production\Proiect_AEMC_1.1.production.o
+__Lfunctab 0 0 ENTRY 0 functab -
+__pidataBANK0 6DE 0 CODE 0 idataBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+__Lclrtext 0 0 ABS 0 clrtext -
+lcd_write4Bit@nibble 73 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+io_expanderWrite@data 71 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__pcstackCOMMON 70 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPCON2 91 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+_SSPSTAT 94 0 ABS 0 - dist/default/production\Proiect_AEMC_1.1.production.o
+__Hend_init 6 0 CODE 0 end_init -
+__end_of_lcd_writeString 934 0 CODE 0 text7 dist/default/production\Proiect_AEMC_1.1.production.o
+__end_of_main FCE 0 CODE 0 maintext dist/default/production\Proiect_AEMC_1.1.production.o
+__Hram 0 0 ABS 0 ram -
+__Lram 0 0 ABS 0 ram -
+_backlight_state 2F 0 BANK0 1 dataBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+_month 22 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+rtc_readDate@calendar_address 74 0 COMMON 1 cstackCOMMON dist/default/production\Proiect_AEMC_1.1.production.o
+__HdataBANK0 0 0 ABS 0 dataBANK0 -
+__initialization FCE 0 CODE 0 cinit dist/default/production\Proiect_AEMC_1.1.production.o
+__pbssBANK0 20 0 BANK0 1 bssBANK0 dist/default/production\Proiect_AEMC_1.1.production.o
+__pstrings 6 0 STRING 0 strings dist/default/production\Proiect_AEMC_1.1.production.o
+# %SPLITSTAB Section
+# This section enumerates all the psect splits performed by the assembler.
+# The beginning of the section is indicated by %SPLITSTAB.
+# Each line is a record a particular split, where the parent psect is on
+# the left and the child on the right.  Note that a child psect is always
+# split form the top of the parent psect. All splits from a given parent
+# are listed in the order in which they occurred.
+%SPLITSTAB
+# %DABS Section
+# This section contains a table of all usuage of the assember
+# directive DABS in the program. Each line has the following format:
+#   <name> <space> <address> <size>
+# If the DABS was originally labelled then that shall be <name>,
+# otherwise name will be "-".  The <space> number is in decimal.
+# <address> and <size> are in byte units as unqaulified hexadecimal
+%DABS
+- 1 7E 2
+# %SEGMENTS Section
+# This sections enumerates the segments of the program.  Each segment
+# is described on a single line as follows:
+#    <name> <space> <link address> <file address> <size> <delta>
+# Addresses and size are in unqualified hexadecimal.  The link address
+# and size are in units of delta. The file address is in units of bytes.
+# All other numeric quantities are in decimal.
+%SEGMENTS
+cinit 0 7E7 FCE 19 2
+text1 0 530 A60 A6 2
+text2 0 5D6 BAC D8 2
+text3 0 452 8A4 23 2
+text4 0 387 70E 9 2
+text5 0 3B2 764 C 2
+text6 0 370 6E0 5 2
+text7 0 475 8EA 25 2
+text8 0 3FE 7FC 1B 2
+text9 0 419 832 1C 2
+text10 0 49A 934 96 2
+text11 0 39B 736 B 2
+text12 0 3E4 7C8 1A 2
+text13 0 3CB 796 19 2
+text14 0 435 86A 1D 2
+text15 0 390 720 B 2
+text16 0 37E 6FC 9 2
+text17 0 375 6EA 9 2
+text18 0 3BE 77C D 2
+text19 0 3A6 74C C 2
+maintext 0 6AE D5C 139 2
+cstackCOMMON 1 70 70 E 1
+reset_vec 0 0 0 3 2
+bssBANK0 1 20 20 10 1
+idataBANK0 0 36F 6DE 1 2
+strings 0 3 6 25 2
+# %NOTES Section
+# This section contains data of all the note-psects.  The beginning of the section
+# is indicated by %NOTES. The first line indicates the name and decimal
+# byte-length of the first note-psect, e.g.
+#   $codecov_info_hdr 16
+# Each line that follows contains the byte-data of the psect in hexadecimal as a
+# space-separated list. These lines are limited to 16 bytes of data.
+%NOTES

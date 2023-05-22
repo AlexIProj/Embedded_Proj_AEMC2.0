@@ -1,0 +1,679 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"5 E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"5 E:\XC8 Compiler\pic\sources\c90\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"4 E:\XC8 Compiler\pic\sources\c90\common\flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+"43 E:\XC8 Compiler\pic\sources\c90\common\fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+"10 E:\XC8 Compiler\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"242
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"8 E:\XC8 Compiler\pic\sources\c90\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 E:\XC8 Compiler\pic\sources\c90\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 E:\XC8 Compiler\pic\sources\c90\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"4 E:\XC8 Compiler\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"10 E:\XC8 Compiler\pic\sources\c90\common\xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+"6 E:\XC8 Compiler\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"7 F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+[v _i2c_masterInit i2c_masterInit `(v  1 e 1 0 ]
+"16
+[v _i2c_masterWait i2c_masterWait `(v  1 e 1 0 ]
+"23
+[v _i2c_masterStart i2c_masterStart `(v  1 e 1 0 ]
+"34
+[v _i2c_masterRepeatedStart i2c_masterRepeatedStart `(v  1 e 1 0 ]
+"39
+[v _i2c_masterStop i2c_masterStop `(v  1 e 1 0 ]
+"44
+[v _i2c_masterWrite i2c_masterWrite `(uc  1 e 1 0 ]
+"50
+[v _i2c_readByte i2c_readByte `(uc  1 e 1 0 ]
+"65
+[v _lcd_init lcd_init `(v  1 e 1 0 ]
+"87
+[v _io_expanderWrite io_expanderWrite `(v  1 e 1 0 ]
+"94
+[v _lcd_write4Bit lcd_write4Bit `(v  1 e 1 0 ]
+"101
+[v _lcd_cmd lcd_cmd `(v  1 e 1 0 ]
+"107
+[v _lcd_writeChar lcd_writeChar `(v  1 e 1 0 ]
+"113
+[v _lcd_writeString lcd_writeString `(v  1 e 1 0 ]
+"118
+[v _lcd_setCursor lcd_setCursor `(v  1 e 1 0 ]
+"145
+[v _lcd_clear lcd_clear `(v  1 e 1 0 ]
+"150
+[v _printInteger printInteger `(v  1 e 1 0 ]
+"30 F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
+[v _main main `(v  1 e 1 0 ]
+"7 F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
+[v _rtc_convUpperNibble rtc_convUpperNibble `(uc  1 e 1 0 ]
+"11
+[v _rtc_convLowerNibble rtc_convLowerNibble `(uc  1 e 1 0 ]
+"15
+[v _rtc_readTime rtc_readTime `(v  1 e 1 0 ]
+"41
+[v _rtc_readDate rtc_readDate `(v  1 e 1 0 ]
+"15 F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+[v _DHT11_readData DHT11_readData `(uc  1 e 1 0 ]
+"30
+[v _DHT11_Start DHT11_Start `(v  1 e 1 0 ]
+"40
+[v _DHT11_checkResponse DHT11_checkResponse `(v  1 e 1 0 ]
+"49
+[v _LM35_initADC LM35_initADC `(v  1 e 1 0 ]
+"55
+[v _LM35_readData LM35_readData `(i  1 e 2 0 ]
+"70
+[v _HIH5030_initADC HIH5030_initADC `(v  1 e 1 0 ]
+"76
+[v _HIH5030_readData HIH5030_readData `(i  1 e 2 0 ]
+"90
+[v _roundFloat roundFloat `(i  1 e 2 0 ]
+"99
+[v _LDR1_initADC LDR1_initADC `(v  1 e 1 0 ]
+"106
+[v _LDR1_readData LDR1_readData `(i  1 e 2 0 ]
+[s S235 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"246 E:/MplabX IDE/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f887.h
+[u S244 . 1 `S235 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES244  1 e 1 @6 ]
+[s S192 . 1 `uc 1 RD0 1 0 :1:0 
+`uc 1 RD1 1 0 :1:1 
+`uc 1 RD2 1 0 :1:2 
+`uc 1 RD3 1 0 :1:3 
+`uc 1 RD4 1 0 :1:4 
+`uc 1 RD5 1 0 :1:5 
+`uc 1 RD6 1 0 :1:6 
+`uc 1 RD7 1 0 :1:7 
+]
+"370
+[u S201 . 1 `S192 1 . 1 0 ]
+[v _PORTDbits PORTDbits `VES201  1 e 1 @8 ]
+"844
+[v _SSPBUF SSPBUF `VEuc  1 e 1 @19 ]
+[s S22 . 1 `uc 1 SSPM 1 0 :4:0 
+`uc 1 CKP 1 0 :1:4 
+`uc 1 SSPEN 1 0 :1:5 
+`uc 1 SSPOV 1 0 :1:6 
+`uc 1 WCOL 1 0 :1:7 
+]
+"871
+[s S28 . 1 `uc 1 SSPM0 1 0 :1:0 
+`uc 1 SSPM1 1 0 :1:1 
+`uc 1 SSPM2 1 0 :1:2 
+`uc 1 SSPM3 1 0 :1:3 
+]
+[u S33 . 1 `S22 1 . 1 0 `S28 1 . 1 0 ]
+[v _SSPCONbits SSPCONbits `VES33  1 e 1 @20 ]
+"1239
+[v _ADRESH ADRESH `VEuc  1 e 1 @30 ]
+"1246
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @31 ]
+[s S507 . 1 `uc 1 ADON 1 0 :1:0 
+`uc 1 GO_nDONE 1 0 :1:1 
+`uc 1 CHS 1 0 :4:2 
+`uc 1 ADCS 1 0 :2:6 
+]
+"1277
+[s S512 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO 1 0 :1:1 
+`uc 1 CHS0 1 0 :1:2 
+`uc 1 CHS1 1 0 :1:3 
+`uc 1 CHS2 1 0 :1:4 
+`uc 1 CHS3 1 0 :1:5 
+`uc 1 ADCS0 1 0 :1:6 
+`uc 1 ADCS1 1 0 :1:7 
+]
+[s S521 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 nDONE 1 0 :1:1 
+]
+[s S524 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO_DONE 1 0 :1:1 
+]
+[u S527 . 1 `S507 1 . 1 0 `S512 1 . 1 0 `S521 1 . 1 0 `S524 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES527  1 e 1 @31 ]
+"1347
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @129 ]
+[s S484 . 1 `uc 1 TRISA0 1 0 :1:0 
+`uc 1 TRISA1 1 0 :1:1 
+`uc 1 TRISA2 1 0 :1:2 
+`uc 1 TRISA3 1 0 :1:3 
+`uc 1 TRISA4 1 0 :1:4 
+`uc 1 TRISA5 1 0 :1:5 
+`uc 1 TRISA6 1 0 :1:6 
+`uc 1 TRISA7 1 0 :1:7 
+]
+"1434
+[u S493 . 1 `S484 1 . 1 0 ]
+[v _TRISAbits TRISAbits `VES493  1 e 1 @133 ]
+"1479
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+[s S145 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 TRISC3 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"1558
+[u S154 . 1 `S145 1 . 1 0 ]
+[v _TRISCbits TRISCbits `VES154  1 e 1 @135 ]
+"1603
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+[s S262 . 1 `uc 1 TRISD0 1 0 :1:0 
+`uc 1 TRISD1 1 0 :1:1 
+`uc 1 TRISD2 1 0 :1:2 
+`uc 1 TRISD3 1 0 :1:3 
+`uc 1 TRISD4 1 0 :1:4 
+`uc 1 TRISD5 1 0 :1:5 
+`uc 1 TRISD6 1 0 :1:6 
+`uc 1 TRISD7 1 0 :1:7 
+]
+"1620
+[u S271 . 1 `S262 1 . 1 0 ]
+[v _TRISDbits TRISDbits `VES271  1 e 1 @136 ]
+"1863
+[v _OSCCON OSCCON `VEuc  1 e 1 @143 ]
+"1980
+[v _SSPCON2 SSPCON2 `VEuc  1 e 1 @145 ]
+[s S51 . 1 `uc 1 SEN 1 0 :1:0 
+`uc 1 RSEN 1 0 :1:1 
+`uc 1 PEN 1 0 :1:2 
+`uc 1 RCEN 1 0 :1:3 
+`uc 1 ACKEN 1 0 :1:4 
+`uc 1 ACKDT 1 0 :1:5 
+`uc 1 ACKSTAT 1 0 :1:6 
+`uc 1 GCEN 1 0 :1:7 
+]
+"1997
+[u S60 . 1 `S51 1 . 1 0 ]
+[v _SSPCON2bits SSPCON2bits `VES60  1 e 1 @145 ]
+"2049
+[v _SSPADD SSPADD `VEuc  1 e 1 @147 ]
+"2178
+[v _SSPSTAT SSPSTAT `VEuc  1 e 1 @148 ]
+"2347
+[v _WPUB WPUB `VEuc  1 e 1 @149 ]
+"2971
+[v _ADRESL ADRESL `VEuc  1 e 1 @158 ]
+"2978
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @159 ]
+[s S171 . 1 `uc 1 ANS0 1 0 :1:0 
+`uc 1 ANS1 1 0 :1:1 
+`uc 1 ANS2 1 0 :1:2 
+`uc 1 ANS3 1 0 :1:3 
+`uc 1 ANS4 1 0 :1:4 
+`uc 1 ANS5 1 0 :1:5 
+`uc 1 ANS6 1 0 :1:6 
+`uc 1 ANS7 1 0 :1:7 
+]
+"3405
+[u S180 . 1 `S171 1 . 1 0 ]
+[v _ANSELbits ANSELbits `VES180  1 e 1 @392 ]
+"3450
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"3574
+[v _ACKSTAT ACKSTAT `VEb  1 e 0 @1166 ]
+"4 F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+[v _RS RS `uc  1 e 1 0 ]
+[v _i2c_add i2c_add `uc  1 e 1 0 ]
+[v _backlight_state backlight_state `uc  1 e 1 0 ]
+"23 F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
+[v _sec sec `i  1 e 2 0 ]
+[v _min min `i  1 e 2 0 ]
+[v _hour hour `i  1 e 2 0 ]
+"24
+[v _day day `i  1 e 2 0 ]
+[v _date date `i  1 e 2 0 ]
+[v _month month `i  1 e 2 0 ]
+[v _year year `i  1 e 2 0 ]
+"28
+[v _alarm_status alarm_status `uc  1 e 1 0 ]
+"12 F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+[v _check_bit check_bit `i  1 e 2 0 ]
+"13
+[v _adc_val adc_val `i  1 e 2 0 ]
+[v _adc_val1 adc_val1 `i  1 e 2 0 ]
+"30 F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"226
+[v main@i i `uc  1 a 1 41 ]
+"225
+[v main@j j `uc  1 a 1 40 ]
+"250
+[v main@temp_octet_1 temp_octet_1 `i  1 a 2 34 ]
+"248
+[v main@rh_octet_1 rh_octet_1 `i  1 a 2 32 ]
+"251
+[v main@temp_octet_2 temp_octet_2 `i  1 a 2 20 ]
+"249
+[v main@rh_octet_2 rh_octet_2 `i  1 a 2 18 ]
+"240
+[v main@aux aux `i  1 a 2 42 ]
+"33
+[v main@week_days week_days `[7]i  1 a 14 4 ]
+"36
+[v main@alarm_digit alarm_digit `[4]uc  1 a 4 45 ]
+"37
+[v main@ok ok `i  1 a 2 49 ]
+[v main@time_aux time_aux `i  1 a 2 30 ]
+"31
+[v main@pos pos `uc  1 a 1 51 ]
+"32
+[v main@device_mode device_mode `uc  1 a 1 44 ]
+"34
+[v main@hour_1 hour_1 `uc  1 a 1 39 ]
+[v main@hour_0 hour_0 `uc  1 a 1 38 ]
+[v main@min_1 min_1 `uc  1 a 1 37 ]
+[v main@min_0 min_0 `uc  1 a 1 36 ]
+"35
+[v main@year_0 year_0 `uc  1 a 1 29 ]
+[v main@year_1 year_1 `uc  1 a 1 28 ]
+[v main@month_0 month_0 `uc  1 a 1 27 ]
+[v main@month_1 month_1 `uc  1 a 1 26 ]
+[v main@day_0 day_0 `uc  1 a 1 25 ]
+[v main@day_1 day_1 `uc  1 a 1 24 ]
+"34
+[v main@sec_1 sec_1 `uc  1 a 1 23 ]
+[v main@sec_0 sec_0 `uc  1 a 1 22 ]
+"32
+[v main@F1395 F1395 `[7]i  1 s 14 F1395 ]
+"35
+[v main@F1409 F1409 `[4]uc  1 s 4 F1409 ]
+"314
+} 0
+"15 F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
+[v _rtc_readTime rtc_readTime `(v  1 e 1 0 ]
+{
+[v rtc_readTime@clock_address clock_address `uc  1 a 1 wreg ]
+[v rtc_readTime@clock_address clock_address `uc  1 a 1 wreg ]
+[v rtc_readTime@clock_address clock_address `uc  1 a 1 4 ]
+"39
+} 0
+"41
+[v _rtc_readDate rtc_readDate `(v  1 e 1 0 ]
+{
+[v rtc_readDate@calendar_address calendar_address `uc  1 a 1 wreg ]
+[v rtc_readDate@calendar_address calendar_address `uc  1 a 1 wreg ]
+[v rtc_readDate@calendar_address calendar_address `uc  1 a 1 4 ]
+"69
+} 0
+"50 F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+[v _i2c_readByte i2c_readByte `(uc  1 e 1 0 ]
+{
+[v i2c_readByte@ack ack `uc  1 a 1 wreg ]
+"51
+[v i2c_readByte@incoming_data incoming_data `uc  1 a 1 1 ]
+"50
+[v i2c_readByte@ack ack `uc  1 a 1 wreg ]
+"52
+[v i2c_readByte@ack ack `uc  1 a 1 0 ]
+"62
+} 0
+"34
+[v _i2c_masterRepeatedStart i2c_masterRepeatedStart `(v  1 e 1 0 ]
+{
+"37
+} 0
+"7 F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
+[v _rtc_convUpperNibble rtc_convUpperNibble `(uc  1 e 1 0 ]
+{
+[v rtc_convUpperNibble@digit digit `uc  1 a 1 wreg ]
+[v rtc_convUpperNibble@digit digit `uc  1 a 1 wreg ]
+[v rtc_convUpperNibble@digit digit `uc  1 a 1 1 ]
+"9
+} 0
+"11
+[v _rtc_convLowerNibble rtc_convLowerNibble `(uc  1 e 1 0 ]
+{
+[v rtc_convLowerNibble@digit digit `uc  1 a 1 wreg ]
+[v rtc_convLowerNibble@digit digit `uc  1 a 1 wreg ]
+[v rtc_convLowerNibble@digit digit `uc  1 a 1 0 ]
+"13
+} 0
+"150 F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+[v _printInteger printInteger `(v  1 e 1 0 ]
+{
+"152
+[v printInteger@divisor divisor `i  1 a 2 77 ]
+"151
+[v printInteger@cifra cifra `i  1 a 2 75 ]
+"150
+[v printInteger@num num `i  1 p 2 73 ]
+"161
+} 0
+"5 E:\XC8 Compiler\pic\sources\c90\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"10
+[v ___awmod@sign sign `uc  1 a 1 13 ]
+[v ___awmod@counter counter `uc  1 a 1 12 ]
+"5
+[v ___awmod@divisor divisor `i  1 p 2 8 ]
+[v ___awmod@dividend dividend `i  1 p 2 10 ]
+"34
+} 0
+"113 F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+[v _lcd_writeString lcd_writeString `(v  1 e 1 0 ]
+{
+[v lcd_writeString@str str `*.24uc  1 a 1 wreg ]
+"114
+[v lcd_writeString@i i `i  1 a 2 6 ]
+"113
+[v lcd_writeString@str str `*.24uc  1 a 1 wreg ]
+[v lcd_writeString@str str `*.24uc  1 a 1 8 ]
+"116
+} 0
+"107
+[v _lcd_writeChar lcd_writeChar `(v  1 e 1 0 ]
+{
+[v lcd_writeChar@data data `uc  1 a 1 wreg ]
+[v lcd_writeChar@data data `uc  1 a 1 wreg ]
+[v lcd_writeChar@data data `uc  1 a 1 5 ]
+"111
+} 0
+"118
+[v _lcd_setCursor lcd_setCursor `(v  1 e 1 0 ]
+{
+[v lcd_setCursor@row row `uc  1 a 1 wreg ]
+[v lcd_setCursor@row row `uc  1 a 1 wreg ]
+[v lcd_setCursor@col col `uc  1 p 1 6 ]
+[v lcd_setCursor@row row `uc  1 a 1 7 ]
+"123
+} 0
+"65
+[v _lcd_init lcd_init `(v  1 e 1 0 ]
+{
+[v lcd_init@i2c_Add i2c_Add `uc  1 a 1 wreg ]
+[v lcd_init@i2c_Add i2c_Add `uc  1 a 1 wreg ]
+[v lcd_init@i2c_Add i2c_Add `uc  1 a 1 8 ]
+"85
+} 0
+"145
+[v _lcd_clear lcd_clear `(v  1 e 1 0 ]
+{
+"148
+} 0
+"101
+[v _lcd_cmd lcd_cmd `(v  1 e 1 0 ]
+{
+[v lcd_cmd@cmd cmd `uc  1 a 1 wreg ]
+[v lcd_cmd@cmd cmd `uc  1 a 1 wreg ]
+[v lcd_cmd@cmd cmd `uc  1 a 1 5 ]
+"105
+} 0
+"94
+[v _lcd_write4Bit lcd_write4Bit `(v  1 e 1 0 ]
+{
+[v lcd_write4Bit@nibble nibble `uc  1 a 1 wreg ]
+[v lcd_write4Bit@nibble nibble `uc  1 a 1 wreg ]
+[v lcd_write4Bit@nibble nibble `uc  1 a 1 3 ]
+"99
+} 0
+"87
+[v _io_expanderWrite io_expanderWrite `(v  1 e 1 0 ]
+{
+[v io_expanderWrite@data data `uc  1 a 1 wreg ]
+[v io_expanderWrite@data data `uc  1 a 1 wreg ]
+[v io_expanderWrite@data data `uc  1 a 1 1 ]
+"92
+} 0
+"44
+[v _i2c_masterWrite i2c_masterWrite `(uc  1 e 1 0 ]
+{
+[v i2c_masterWrite@data data `uc  1 a 1 wreg ]
+[v i2c_masterWrite@data data `uc  1 a 1 wreg ]
+[v i2c_masterWrite@data data `uc  1 a 1 0 ]
+"48
+} 0
+"39
+[v _i2c_masterStop i2c_masterStop `(v  1 e 1 0 ]
+{
+"42
+} 0
+"23
+[v _i2c_masterStart i2c_masterStart `(v  1 e 1 0 ]
+{
+"26
+} 0
+"16
+[v _i2c_masterWait i2c_masterWait `(v  1 e 1 0 ]
+{
+"21
+} 0
+"7
+[v _i2c_masterInit i2c_masterInit `(v  1 e 1 0 ]
+{
+"14
+} 0
+"55 F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+[v _LM35_readData LM35_readData `(i  1 e 2 0 ]
+{
+"63
+[v LM35_readData@temperature temperature `f  1 a 4 65 ]
+"67
+} 0
+"49
+[v _LM35_initADC LM35_initADC `(v  1 e 1 0 ]
+{
+"53
+} 0
+"106
+[v _LDR1_readData LDR1_readData `(i  1 e 2 0 ]
+{
+"116
+} 0
+"5 E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"5
+[v ___awdiv@divisor divisor `i  1 p 2 0 ]
+[v ___awdiv@dividend dividend `i  1 p 2 2 ]
+"41
+} 0
+"99 F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+[v _LDR1_initADC LDR1_initADC `(v  1 e 1 0 ]
+{
+"104
+} 0
+"76
+[v _HIH5030_readData HIH5030_readData `(i  1 e 2 0 ]
+{
+"83
+[v HIH5030_readData@x x `f  1 a 4 69 ]
+"85
+[v HIH5030_readData@RH RH `f  1 a 4 65 ]
+"88
+} 0
+"90
+[v _roundFloat roundFloat `(i  1 e 2 0 ]
+{
+"92
+[v roundFloat@decimal decimal `f  1 a 4 20 ]
+"91
+[v roundFloat@rounded rounded `i  1 a 2 24 ]
+"90
+[v roundFloat@num num `f  1 p 4 16 ]
+"96
+} 0
+"10 E:\XC8 Compiler\pic\sources\c90\common\xxtofl.c
+[v ___xxtofl __xxtofl `(d  1 e 4 0 ]
+{
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+"13
+[v ___xxtofl@arg arg `ul  1 a 4 2 ]
+"12
+[v ___xxtofl@exp exp `uc  1 a 1 1 ]
+"10
+[v ___xxtofl@sign sign `uc  1 a 1 wreg ]
+[v ___xxtofl@val val `l  1 p 4 6 ]
+"15
+[v ___xxtofl@sign sign `uc  1 a 1 0 ]
+"44
+} 0
+"43 E:\XC8 Compiler\pic\sources\c90\common\fltol.c
+[v ___fltol __fltol `(l  1 e 4 0 ]
+{
+"45
+[v ___fltol@exp1 exp1 `uc  1 a 1 9 ]
+[v ___fltol@sign1 sign1 `uc  1 a 1 8 ]
+"43
+[v ___fltol@f1 f1 `d  1 p 4 0 ]
+"70
+} 0
+"242 E:\XC8 Compiler\pic\sources\c90\common\sprcadd.c
+[v ___flsub __flsub `(d  1 e 4 0 ]
+{
+[v ___flsub@a a `d  1 p 4 8 ]
+[v ___flsub@b b `d  1 p 4 12 ]
+"250
+} 0
+"10
+[v ___fladd __fladd `(d  1 e 4 0 ]
+{
+"17
+[v ___fladd@grs grs `uc  1 a 1 11 ]
+"15
+[v ___fladd@bexp bexp `uc  1 a 1 10 ]
+"16
+[v ___fladd@aexp aexp `uc  1 a 1 9 ]
+"13
+[v ___fladd@signs signs `uc  1 a 1 8 ]
+"10
+[v ___fladd@b b `d  1 p 4 0 ]
+[v ___fladd@a a `d  1 p 4 4 ]
+"237
+} 0
+"4 E:\XC8 Compiler\pic\sources\c90\common\flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+{
+[v ___flge@ff1 ff1 `d  1 p 4 0 ]
+[v ___flge@ff2 ff2 `d  1 p 4 4 ]
+"19
+} 0
+"15 E:\XC8 Compiler\pic\sources\c90\common\Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"8 E:\XC8 Compiler\pic\sources\c90\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+{
+[s S888 . 4 `uc 1 a 1 0 `uc 1 b 1 1 `uc 1 c 1 2 `uc 1 d 1 3 ]
+"13
+[s S893 . 4 `i 1 wordA 2 0 `i 1 wordB 2 2 ]
+[u S896 . 4 `l 1 i 4 0 `d 1 f 4 0 `S888 1 fAsBytes 4 0 `S893 1 fAsWords 4 0 ]
+[v ___flmul@prod prod `S896  1 a 4 54 ]
+"12
+[v ___flmul@grs grs `ul  1 a 4 48 ]
+[s S965 . 2 `uc 1 a 1 0 `uc 1 b 1 1 ]
+"14
+[u S968 . 2 `i 1 i 2 0 `ui 1 n 2 0 `S965 1 nAsBytes 2 0 ]
+[v ___flmul@temp temp `S968  1 a 2 58 ]
+"10
+[v ___flmul@bexp bexp `uc  1 a 1 53 ]
+"11
+[v ___flmul@aexp aexp `uc  1 a 1 52 ]
+"9
+[v ___flmul@sign sign `uc  1 a 1 47 ]
+"8
+[v ___flmul@b b `d  1 p 4 34 ]
+[v ___flmul@a a `d  1 p 4 38 ]
+"205
+} 0
+"4 E:\XC8 Compiler\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+{
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+"6
+[v __Umul8_16@word_mpld word_mpld `ui  1 a 2 6 ]
+"5
+[v __Umul8_16@product product `ui  1 a 2 4 ]
+"4
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 wreg ]
+[v __Umul8_16@multiplicand multiplicand `uc  1 p 1 0 ]
+[v __Umul8_16@multiplier multiplier `uc  1 a 1 8 ]
+"60
+} 0
+"8 E:\XC8 Compiler\pic\sources\c90\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+{
+"21
+[v ___fldiv@grs grs `ul  1 a 4 28 ]
+"22
+[v ___fldiv@rem rem `ul  1 a 4 21 ]
+"20
+[v ___fldiv@new_exp new_exp `i  1 a 2 26 ]
+"19
+[v ___fldiv@aexp aexp `uc  1 a 1 33 ]
+"18
+[v ___fldiv@bexp bexp `uc  1 a 1 32 ]
+"16
+[v ___fldiv@sign sign `uc  1 a 1 25 ]
+"8
+[v ___fldiv@a a `d  1 p 4 8 ]
+[v ___fldiv@b b `d  1 p 4 12 ]
+"185
+} 0
+"70 F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+[v _HIH5030_initADC HIH5030_initADC `(v  1 e 1 0 ]
+{
+"74
+} 0
+"15
+[v _DHT11_readData DHT11_readData `(uc  1 e 1 0 ]
+{
+"16
+[v DHT11_readData@i i `uc  1 a 1 2 ]
+[v DHT11_readData@data data `uc  1 a 1 1 ]
+"28
+} 0
+"40
+[v _DHT11_checkResponse DHT11_checkResponse `(v  1 e 1 0 ]
+{
+"46
+} 0
+"30
+[v _DHT11_Start DHT11_Start `(v  1 e 1 0 ]
+{
+"38
+} 0
