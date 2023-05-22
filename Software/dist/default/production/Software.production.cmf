@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+$C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 idloc IDLOC 5 2000 2000 4 2 1
 end_init CODE 0 0 0 3 2 1
 config CONFIG 4 2007 2007 2 2 1
@@ -125,73 +125,73 @@ STRING 1800-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\Software.production.o
-7D7 cinit CODE >1307:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7D7 cinit CODE >1310:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7D7 cinit CODE >1407:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7D8 cinit CODE >1408:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7D9 cinit CODE >1409:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DA cinit CODE >1410:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DB cinit CODE >1411:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DC cinit CODE >1412:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DD cinit CODE >1413:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DE cinit CODE >1414:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7DF cinit CODE >1415:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E0 cinit CODE >1416:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E5 cinit CODE >1420:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E6 cinit CODE >1421:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E7 cinit CODE >1422:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E8 cinit CODE >1423:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7E9 cinit CODE >1424:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7EA cinit CODE >1425:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7EB cinit CODE >1426:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7EC cinit CODE >1427:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7ED cinit CODE >1428:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7EE cinit CODE >1429:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7F3 cinit CODE >1448:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7F4 cinit CODE >1449:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7F5 cinit CODE >1450:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7F6 cinit CODE >1451:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7FB cinit CODE >1454:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7FC cinit CODE >1460:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7FC cinit CODE >1462:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-7FD cinit CODE >1463:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-1208 text41 CODE >30:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1208 text41 CODE >31:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-120B text41 CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-120E text41 CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1217 text41 CODE >34:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-121A text41 CODE >35:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-121F text41 CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1222 text41 CODE >38:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11D6 text40 CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11D6 text40 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11DA text40 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11DF text40 CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11E3 text40 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11E9 text40 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-11ED text40 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1326 text39 CODE >15:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1326 text39 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1327 text39 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1328 text39 CODE >18:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-132E text39 CODE >19:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1333 text39 CODE >20:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1339 text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-133F text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1342 text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-134A text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1350 text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1353 text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1359 text39 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-135D text39 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1363 text39 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1367 text39 CODE >27:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1368 text39 CODE >28:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-116A text38 CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-116A text38 CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-116D text38 CODE >72:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1171 text38 CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1174 text38 CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+7D7 cinit CODE >1307:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7D7 cinit CODE >1310:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7D7 cinit CODE >1407:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7D8 cinit CODE >1408:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7D9 cinit CODE >1409:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DA cinit CODE >1410:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DB cinit CODE >1411:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DC cinit CODE >1412:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DD cinit CODE >1413:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DE cinit CODE >1414:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7DF cinit CODE >1415:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E0 cinit CODE >1416:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E5 cinit CODE >1420:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E6 cinit CODE >1421:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E7 cinit CODE >1422:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E8 cinit CODE >1423:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7E9 cinit CODE >1424:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7EA cinit CODE >1425:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7EB cinit CODE >1426:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7EC cinit CODE >1427:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7ED cinit CODE >1428:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7EE cinit CODE >1429:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7F3 cinit CODE >1448:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7F4 cinit CODE >1449:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7F5 cinit CODE >1450:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7F6 cinit CODE >1451:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7FB cinit CODE >1454:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7FC cinit CODE >1460:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7FC cinit CODE >1462:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+7FD cinit CODE >1463:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+1208 text41 CODE >30:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1208 text41 CODE >31:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+120B text41 CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+120E text41 CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1217 text41 CODE >34:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+121A text41 CODE >35:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+121F text41 CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1222 text41 CODE >38:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11D6 text40 CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11D6 text40 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11DA text40 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11DF text40 CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11E3 text40 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11E9 text40 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+11ED text40 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1326 text39 CODE >15:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1326 text39 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1327 text39 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1328 text39 CODE >18:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+132E text39 CODE >19:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1333 text39 CODE >20:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1339 text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+133F text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1342 text39 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+134A text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1350 text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1353 text39 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1359 text39 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+135D text39 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1363 text39 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1367 text39 CODE >27:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1368 text39 CODE >28:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+116A text38 CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+116A text38 CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+116D text38 CODE >72:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1171 text38 CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1174 text38 CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
 2D text37 CODE >8:E:\XC8 Compiler\pic\sources\c90\common\sprcdiv.c
 2D text37 CODE >26:E:\XC8 Compiler\pic\sources\c90\common\sprcdiv.c
 32 text37 CODE >27:E:\XC8 Compiler\pic\sources\c90\common\sprcdiv.c
@@ -799,36 +799,36 @@ CBA text32 CODE >237:E:\XC8 Compiler\pic\sources\c90\common\sprcadd.c
 96E text29 CODE >42:E:\XC8 Compiler\pic\sources\c90\common\xxtofl.c
 96F text29 CODE >43:E:\XC8 Compiler\pic\sources\c90\common\xxtofl.c
 977 text29 CODE >44:E:\XC8 Compiler\pic\sources\c90\common\xxtofl.c
-16CD text28 CODE >90:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-16CD text28 CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-16E2 text28 CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1712 text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-174A text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1753 text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1757 text28 CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-175D text28 CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-978 text27 CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-978 text27 CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-97B text27 CODE >78:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-97F text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-982 text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-985 text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-992 text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-997 text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-99A text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-9A9 text27 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-9AD text27 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-9B1 text27 CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-9D7 text27 CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-9F6 text27 CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-A43 text27 CODE >87:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-A56 text27 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-118B text26 CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-118B text26 CODE >100:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-118E text26 CODE >101:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-118F text26 CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1193 text26 CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1196 text26 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
+16CD text28 CODE >90:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+16CD text28 CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+16E2 text28 CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1712 text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+174A text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1753 text28 CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1757 text28 CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+175D text28 CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+978 text27 CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+978 text27 CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+97B text27 CODE >78:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+97F text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+982 text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+985 text27 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+992 text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+997 text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+99A text27 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+9A9 text27 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+9AD text27 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+9B1 text27 CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+9D7 text27 CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+9F6 text27 CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+A43 text27 CODE >87:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+A56 text27 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+118B text26 CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+118B text26 CODE >100:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+118E text26 CODE >101:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+118F text26 CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1193 text26 CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1196 text26 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
 146F text25 CODE >5:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
 146F text25 CODE >13:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
 1470 text25 CODE >14:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
@@ -866,128 +866,128 @@ A56 text27 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
 14CF text25 CODE >39:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
 14D1 text25 CODE >40:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
 14D5 text25 CODE >41:E:\XC8 Compiler\pic\sources\c90\common\awdiv.c
-1369 text24 CODE >106:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1369 text24 CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-136C text24 CODE >108:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1370 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1373 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1376 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-137F text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1382 text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1385 text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-138E text24 CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1392 text24 CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1396 text24 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-13A9 text24 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-13AD text24 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-13B1 text24 CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1175 text23 CODE >49:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1175 text23 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1178 text23 CODE >51:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-117C text23 CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-117F text23 CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-817 text22 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-817 text22 CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-81A text22 CODE >57:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-81E text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-821 text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-824 text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-831 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-836 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-839 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-848 text22 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-84A text22 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-84E text22 CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-874 text22 CODE >64:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-8AA text22 CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-8BD text22 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
-1197 text21 CODE >7:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1197 text21 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-119B text21 CODE >9:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-119C text21 CODE >10:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-119F text21 CODE >12:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11A0 text21 CODE >13:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11A2 text21 CODE >14:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11BB text20 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11BB text20 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11C7 text20 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-114F text19 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-114F text19 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1154 text19 CODE >25:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1157 text19 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1158 text18 CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1158 text18 CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-115D text18 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1160 text18 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1180 text17 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1181 text17 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1186 text17 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-118A text17 CODE >47:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-118A text17 CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-125B text16 CODE >87:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-125C text16 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1261 text16 CODE >89:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1269 text16 CODE >90:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1272 text16 CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1277 text16 CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11EE text15 CODE >94:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11EF text15 CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11F5 text15 CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11FC text15 CODE >97:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1203 text15 CODE >98:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1207 text15 CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1223 text14 CODE >101:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1224 text14 CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1227 text14 CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-122E text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1231 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1234 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1236 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-123E text14 CODE >105:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11A3 text13 CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11A3 text13 CODE >146:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11A9 text13 CODE >147:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-11AE text13 CODE >148:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1647 text12 CODE >65:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1648 text12 CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-164C text12 CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1654 text12 CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-165A text12 CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1663 text12 CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1669 text12 CODE >72:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1672 text12 CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1678 text12 CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1681 text12 CODE >75:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1687 text12 CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1690 text12 CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1696 text12 CODE >78:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-169F text12 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16A5 text12 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16AE text12 CODE >81:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16B4 text12 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16BD text12 CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16C3 text12 CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-16CC text12 CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-123F text11 CODE >118:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1240 text11 CODE >119:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1245 text11 CODE >120:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-124D text11 CODE >121:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1253 text11 CODE >122:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-125A text11 CODE >123:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1278 text10 CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1279 text10 CODE >108:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-127D text10 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1284 text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1287 text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-128A text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-128C text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1294 text10 CODE >111:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1301 text9 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1302 text9 CODE >114:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1305 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1314 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1321 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1325 text9 CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
+1369 text24 CODE >106:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1369 text24 CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+136C text24 CODE >108:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1370 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1373 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1376 text24 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+137F text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1382 text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1385 text24 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+138E text24 CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1392 text24 CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1396 text24 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+13A9 text24 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+13AD text24 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+13B1 text24 CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1175 text23 CODE >49:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1175 text23 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1178 text23 CODE >51:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+117C text23 CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+117F text23 CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+817 text22 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+817 text22 CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+81A text22 CODE >57:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+81E text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+821 text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+824 text22 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+831 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+836 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+839 text22 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+848 text22 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+84A text22 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+84E text22 CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+874 text22 CODE >64:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+8AA text22 CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+8BD text22 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\sensors.c
+1197 text21 CODE >7:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1197 text21 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+119B text21 CODE >9:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+119C text21 CODE >10:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+119F text21 CODE >12:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11A0 text21 CODE >13:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11A2 text21 CODE >14:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11BB text20 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11BB text20 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11C7 text20 CODE >21:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+114F text19 CODE >23:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+114F text19 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1154 text19 CODE >25:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1157 text19 CODE >26:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1158 text18 CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1158 text18 CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+115D text18 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1160 text18 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1180 text17 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1181 text17 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1186 text17 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+118A text17 CODE >47:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+118A text17 CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+125B text16 CODE >87:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+125C text16 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1261 text16 CODE >89:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1269 text16 CODE >90:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1272 text16 CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1277 text16 CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11EE text15 CODE >94:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11EF text15 CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11F5 text15 CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11FC text15 CODE >97:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1203 text15 CODE >98:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1207 text15 CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1223 text14 CODE >101:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1224 text14 CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1227 text14 CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+122E text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1231 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1234 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1236 text14 CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+123E text14 CODE >105:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11A3 text13 CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11A3 text13 CODE >146:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11A9 text13 CODE >147:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+11AE text13 CODE >148:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1647 text12 CODE >65:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1648 text12 CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+164C text12 CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1654 text12 CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+165A text12 CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1663 text12 CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1669 text12 CODE >72:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1672 text12 CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1678 text12 CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1681 text12 CODE >75:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1687 text12 CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1690 text12 CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1696 text12 CODE >78:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+169F text12 CODE >79:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16A5 text12 CODE >80:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16AE text12 CODE >81:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16B4 text12 CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16BD text12 CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16C3 text12 CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+16CC text12 CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+123F text11 CODE >118:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1240 text11 CODE >119:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1245 text11 CODE >120:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+124D text11 CODE >121:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1253 text11 CODE >122:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+125A text11 CODE >123:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1278 text10 CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1279 text10 CODE >108:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+127D text10 CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1284 text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1287 text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+128A text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+128C text10 CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1294 text10 CODE >111:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1301 text9 CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1302 text9 CODE >114:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1305 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1314 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1321 text9 CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1325 text9 CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
 13B2 text8 CODE >5:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
 13B2 text8 CODE >12:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
 13B3 text8 CODE >13:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
@@ -1019,359 +1019,359 @@ A56 text27 CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC\Software\sensors.c
 1404 text8 CODE >32:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
 1406 text8 CODE >33:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
 140A text8 CODE >34:E:\XC8 Compiler\pic\sources\c90\common\awmod.c
-15C2 text7 CODE >150:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15C2 text7 CODE >152:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15C8 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15C9 text7 CODE >154:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15DE text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15F0 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15F4 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-15F9 text7 CODE >157:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-161B text7 CODE >158:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1622 text7 CODE >159:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1637 text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-163E text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1642 text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1646 text7 CODE >161:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-113D text6 CODE >11:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-113E text6 CODE >12:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1141 text6 CODE >13:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-11AF text5 CODE >7:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-11B0 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-11B3 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-11B6 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-11BA text5 CODE >9:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1161 text4 CODE >34:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1161 text4 CODE >35:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1166 text4 CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1169 text4 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1295 text3 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-1296 text3 CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-129B text3 CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-129E text3 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12A3 text3 CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12A7 text3 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12AC text3 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12B3 text3 CODE >60:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12B6 text3 CODE >61:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-12B7 text3 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC\Software\i2c.c
-154C text2 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-154D text2 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1552 text2 CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1558 text2 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-155E text2 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1563 text2 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1569 text2 CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-156A text2 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1578 text2 CODE >51:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1579 text2 CODE >54:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1587 text2 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1588 text2 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1596 text2 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1597 text2 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15A5 text2 CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15A6 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15AB text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15B0 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15B3 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15B6 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15B9 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15BC text2 CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-15C1 text2 CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-140B text1 CODE >15:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-140C text1 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1411 text1 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1417 text1 CODE >18:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-141D text1 CODE >19:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1422 text1 CODE >20:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1428 text1 CODE >22:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1429 text1 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1437 text1 CODE >25:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1438 text1 CODE >28:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1446 text1 CODE >29:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1447 text1 CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1455 text1 CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1456 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-145B text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1460 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1463 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1466 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1469 text1 CODE >38:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-146E text1 CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC\Software\rtc.c
-1FC maintext CODE >30:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-1FC maintext CODE >31:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-200 maintext CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-201 maintext CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-217 maintext CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-21F maintext CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-223 maintext CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-227 maintext CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-228 maintext CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-229 maintext CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-22E maintext CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-234 maintext CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-237 maintext CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-238 maintext CODE >47:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-23B maintext CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-23C maintext CODE >49:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-23D maintext CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-240 maintext CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-243 maintext CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-244 maintext CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-24C maintext CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-252 maintext CODE >57:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-261 maintext CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-266 maintext CODE >60:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-26E maintext CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-274 maintext CODE >65:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-27A maintext CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-280 maintext CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-28B maintext CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-294 maintext CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-29D maintext CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2A6 maintext CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2AC maintext CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2B0 maintext CODE >75:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2B5 maintext CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2BF maintext CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2C3 maintext CODE >81:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2CA maintext CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2D0 maintext CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2D6 maintext CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2DC maintext CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2E2 maintext CODE >86:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2E8 maintext CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2F3 maintext CODE >89:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-2FC maintext CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-304 maintext CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-30A maintext CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-312 maintext CODE >94:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-31A maintext CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-320 maintext CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-328 maintext CODE >97:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-330 maintext CODE >98:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-336 maintext CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-33E maintext CODE >100:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-346 maintext CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-351 maintext CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-35A maintext CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-363 maintext CODE >105:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-36C maintext CODE >106:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-375 maintext CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-37E maintext CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-386 maintext CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-38C maintext CODE >111:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-394 maintext CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-39C maintext CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3A2 maintext CODE >114:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3AA maintext CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3B2 maintext CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3B8 maintext CODE >117:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3C0 maintext CODE >118:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3C8 maintext CODE >120:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3C9 maintext CODE >122:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3CF maintext CODE >123:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3D0 maintext CODE >125:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3D6 maintext CODE >126:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3D7 maintext CODE >128:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3DD maintext CODE >129:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3DE maintext CODE >131:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3E4 maintext CODE >132:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3E5 maintext CODE >134:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3EB maintext CODE >135:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3EC maintext CODE >137:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3F2 maintext CODE >138:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3F3 maintext CODE >140:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3F9 maintext CODE >141:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-3FA maintext CODE >143:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-400 maintext CODE >144:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-401 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-405 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-416 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-41B maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-41E maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-421 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-424 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-427 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-42A maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-42D maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-430 maintext CODE >149:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-435 maintext CODE >152:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-43D maintext CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-443 maintext CODE >155:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-44B maintext CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-451 maintext CODE >157:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-459 maintext CODE >158:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-461 maintext CODE >159:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-467 maintext CODE >160:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-46F maintext CODE >161:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-477 maintext CODE >162:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-47F maintext CODE >164:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-485 maintext CODE >165:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-48C maintext CODE >166:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-491 maintext CODE >167:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-495 maintext CODE >168:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-499 maintext CODE >169:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4A1 maintext CODE >170:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4A7 maintext CODE >171:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4AD maintext CODE >172:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4AE maintext CODE >174:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4B3 maintext CODE >175:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4B6 maintext CODE >176:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4BE maintext CODE >177:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4C4 maintext CODE >178:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4CA maintext CODE >181:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4D7 maintext CODE >182:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4D9 maintext CODE >183:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4DB maintext CODE >183:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4DF maintext CODE >184:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4E2 maintext CODE >185:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4E2 maintext CODE >186:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4E8 maintext CODE >187:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4EC maintext CODE >185:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4F4 maintext CODE >189:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-4F4 maintext CODE >190:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-506 maintext CODE >191:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-50A maintext CODE >192:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-50C maintext CODE >192:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-510 maintext CODE >193:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-513 maintext CODE >194:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-513 maintext CODE >195:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-519 maintext CODE >196:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-51D maintext CODE >194:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-525 maintext CODE >198:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-525 maintext CODE >199:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-537 maintext CODE >200:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-540 maintext CODE >201:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-546 maintext CODE >201:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-550 maintext CODE >202:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-552 maintext CODE >202:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-558 maintext CODE >203:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-55A maintext CODE >203:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-560 maintext CODE >204:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-566 maintext CODE >205:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-568 maintext CODE >205:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-56F maintext CODE >206:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-56F maintext CODE >207:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-579 maintext CODE >206:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-581 maintext CODE >208:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-581 maintext CODE >209:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-593 maintext CODE >211:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-59A maintext CODE >212:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5A0 maintext CODE >212:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5AA maintext CODE >213:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5AC maintext CODE >213:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5B2 maintext CODE >214:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5B4 maintext CODE >214:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5BA maintext CODE >215:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5C0 maintext CODE >216:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5C2 maintext CODE >216:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5C6 maintext CODE >217:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5C9 maintext CODE >218:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5C9 maintext CODE >219:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5CF maintext CODE >220:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5D3 maintext CODE >218:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5DB maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5E4 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5EA maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5F0 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-5F6 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-600 maintext CODE >224:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-601 maintext CODE >225:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-604 maintext CODE >225:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-609 maintext CODE >226:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-60C maintext CODE >226:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-611 maintext CODE >227:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-614 maintext CODE >228:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-61E maintext CODE >229:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-621 maintext CODE >230:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-62B maintext CODE >231:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-632 maintext CODE >232:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-641 maintext CODE >233:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-648 maintext CODE >234:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-64B maintext CODE >239:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-651 maintext CODE >242:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-659 maintext CODE >243:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-65F maintext CODE >244:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-664 maintext CODE >245:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-669 maintext CODE >247:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-671 maintext CODE >248:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-67E maintext CODE >249:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-68B maintext CODE >250:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-698 maintext CODE >251:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6A5 maintext CODE >253:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6AD maintext CODE >254:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6B3 maintext CODE >255:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6BB maintext CODE >256:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6C0 maintext CODE >257:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6CF maintext CODE >258:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6D0 maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6D4 maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6DB maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6E0 maintext CODE >264:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6E8 maintext CODE >265:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6EE maintext CODE >266:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6F6 maintext CODE >267:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-6FB maintext CODE >268:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-70A maintext CODE >269:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-70B maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-70F maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-716 maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-71B maintext CODE >276:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-723 maintext CODE >277:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-72A maintext CODE >282:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-730 maintext CODE >283:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-738 maintext CODE >284:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-73E maintext CODE >286:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-746 maintext CODE >287:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-74C maintext CODE >288:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-751 maintext CODE >289:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-761 maintext CODE >291:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-769 maintext CODE >292:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-76F maintext CODE >293:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-774 maintext CODE >294:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-784 maintext CODE >295:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-785 maintext CODE >297:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-78B maintext CODE >298:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-793 maintext CODE >299:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-799 maintext CODE >301:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-79E maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7A8 maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7AC maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7B0 maintext CODE >303:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7B8 maintext CODE >304:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7BE maintext CODE >305:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7C1 maintext CODE >306:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7C2 maintext CODE >308:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7CA maintext CODE >309:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-7D0 maintext CODE >310:F:\Proiecte uC\Embedded_Proj_AEMC\Software\main.c
-1147 clrtext CODE >1435:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-1147 clrtext CODE >1436:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-1148 clrtext CODE >1437:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-1148 clrtext CODE >1438:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-1149 clrtext CODE >1439:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-114A clrtext CODE >1440:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-114B clrtext CODE >1441:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-114C clrtext CODE >1442:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-114D clrtext CODE >1443:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-114E clrtext CODE >1444:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-804 inittext CODE >1381:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-804 inittext CODE >1382:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-805 inittext CODE >1383:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-806 inittext CODE >1384:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-807 inittext CODE >1385:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-808 inittext CODE >1392:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-808 inittext CODE >1393:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-80D inittext CODE >1394:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-80E inittext CODE >1395:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-80F inittext CODE >1396:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-810 inittext CODE >1397:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-811 inittext CODE >1398:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-812 inittext CODE >1399:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-813 inittext CODE >1400:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-814 inittext CODE >1401:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-815 inittext CODE >1402:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
-816 inittext CODE >1403:C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_1.s
+15C2 text7 CODE >150:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15C2 text7 CODE >152:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15C8 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15C9 text7 CODE >154:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15DE text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15F0 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15F4 text7 CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+15F9 text7 CODE >157:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+161B text7 CODE >158:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1622 text7 CODE >159:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1637 text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+163E text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1642 text7 CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1646 text7 CODE >161:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+113D text6 CODE >11:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+113E text6 CODE >12:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1141 text6 CODE >13:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+11AF text5 CODE >7:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+11B0 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+11B3 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+11B6 text5 CODE >8:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+11BA text5 CODE >9:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1161 text4 CODE >34:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1161 text4 CODE >35:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1166 text4 CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1169 text4 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1295 text3 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+1296 text3 CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+129B text3 CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+129E text3 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12A3 text3 CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12A7 text3 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12AC text3 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12B3 text3 CODE >60:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12B6 text3 CODE >61:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+12B7 text3 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\i2c.c
+154C text2 CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+154D text2 CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1552 text2 CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1558 text2 CODE >44:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+155E text2 CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1563 text2 CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1569 text2 CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+156A text2 CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1578 text2 CODE >51:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1579 text2 CODE >54:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1587 text2 CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1588 text2 CODE >58:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1596 text2 CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1597 text2 CODE >62:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15A5 text2 CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15A6 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15AB text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15B0 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15B3 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15B6 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15B9 text2 CODE >67:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15BC text2 CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+15C1 text2 CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+140B text1 CODE >15:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+140C text1 CODE >16:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1411 text1 CODE >17:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1417 text1 CODE >18:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+141D text1 CODE >19:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1422 text1 CODE >20:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1428 text1 CODE >22:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1429 text1 CODE >24:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1437 text1 CODE >25:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1438 text1 CODE >28:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1446 text1 CODE >29:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1447 text1 CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1455 text1 CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1456 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+145B text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1460 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1463 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1466 text1 CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1469 text1 CODE >38:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+146E text1 CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\rtc.c
+1FC maintext CODE >30:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+1FC maintext CODE >31:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+200 maintext CODE >32:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+201 maintext CODE >33:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+217 maintext CODE >36:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+21F maintext CODE >37:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+223 maintext CODE >39:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+227 maintext CODE >40:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+228 maintext CODE >41:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+229 maintext CODE >42:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+22E maintext CODE >43:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+234 maintext CODE >45:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+237 maintext CODE >46:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+238 maintext CODE >47:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+23B maintext CODE >48:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+23C maintext CODE >49:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+23D maintext CODE >50:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+240 maintext CODE >52:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+243 maintext CODE >53:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+244 maintext CODE >55:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+24C maintext CODE >56:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+252 maintext CODE >57:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+261 maintext CODE >59:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+266 maintext CODE >60:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+26E maintext CODE >63:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+274 maintext CODE >65:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+27A maintext CODE >66:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+280 maintext CODE >68:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+28B maintext CODE >69:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+294 maintext CODE >70:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+29D maintext CODE >71:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2A6 maintext CODE >73:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2AC maintext CODE >74:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2B0 maintext CODE >75:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2B5 maintext CODE >76:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2BF maintext CODE >77:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2C3 maintext CODE >81:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2CA maintext CODE >82:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2D0 maintext CODE >83:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2D6 maintext CODE >84:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2DC maintext CODE >85:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2E2 maintext CODE >86:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2E8 maintext CODE >88:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2F3 maintext CODE >89:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+2FC maintext CODE >91:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+304 maintext CODE >92:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+30A maintext CODE >93:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+312 maintext CODE >94:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+31A maintext CODE >95:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+320 maintext CODE >96:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+328 maintext CODE >97:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+330 maintext CODE >98:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+336 maintext CODE >99:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+33E maintext CODE >100:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+346 maintext CODE >102:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+351 maintext CODE >103:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+35A maintext CODE >104:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+363 maintext CODE >105:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+36C maintext CODE >106:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+375 maintext CODE >107:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+37E maintext CODE >109:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+386 maintext CODE >110:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+38C maintext CODE >111:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+394 maintext CODE >112:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+39C maintext CODE >113:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3A2 maintext CODE >114:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3AA maintext CODE >115:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3B2 maintext CODE >116:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3B8 maintext CODE >117:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3C0 maintext CODE >118:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3C8 maintext CODE >120:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3C9 maintext CODE >122:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3CF maintext CODE >123:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3D0 maintext CODE >125:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3D6 maintext CODE >126:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3D7 maintext CODE >128:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3DD maintext CODE >129:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3DE maintext CODE >131:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3E4 maintext CODE >132:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3E5 maintext CODE >134:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3EB maintext CODE >135:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3EC maintext CODE >137:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3F2 maintext CODE >138:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3F3 maintext CODE >140:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3F9 maintext CODE >141:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+3FA maintext CODE >143:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+400 maintext CODE >144:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+401 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+405 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+416 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+41B maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+41E maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+421 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+424 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+427 maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+42A maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+42D maintext CODE >145:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+430 maintext CODE >149:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+435 maintext CODE >152:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+43D maintext CODE >153:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+443 maintext CODE >155:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+44B maintext CODE >156:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+451 maintext CODE >157:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+459 maintext CODE >158:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+461 maintext CODE >159:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+467 maintext CODE >160:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+46F maintext CODE >161:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+477 maintext CODE >162:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+47F maintext CODE >164:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+485 maintext CODE >165:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+48C maintext CODE >166:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+491 maintext CODE >167:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+495 maintext CODE >168:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+499 maintext CODE >169:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4A1 maintext CODE >170:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4A7 maintext CODE >171:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4AD maintext CODE >172:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4AE maintext CODE >174:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4B3 maintext CODE >175:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4B6 maintext CODE >176:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4BE maintext CODE >177:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4C4 maintext CODE >178:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4CA maintext CODE >181:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4D7 maintext CODE >182:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4D9 maintext CODE >183:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4DB maintext CODE >183:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4DF maintext CODE >184:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4E2 maintext CODE >185:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4E2 maintext CODE >186:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4E8 maintext CODE >187:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4EC maintext CODE >185:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4F4 maintext CODE >189:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+4F4 maintext CODE >190:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+506 maintext CODE >191:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+50A maintext CODE >192:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+50C maintext CODE >192:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+510 maintext CODE >193:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+513 maintext CODE >194:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+513 maintext CODE >195:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+519 maintext CODE >196:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+51D maintext CODE >194:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+525 maintext CODE >198:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+525 maintext CODE >199:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+537 maintext CODE >200:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+540 maintext CODE >201:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+546 maintext CODE >201:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+550 maintext CODE >202:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+552 maintext CODE >202:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+558 maintext CODE >203:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+55A maintext CODE >203:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+560 maintext CODE >204:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+566 maintext CODE >205:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+568 maintext CODE >205:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+56F maintext CODE >206:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+56F maintext CODE >207:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+579 maintext CODE >206:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+581 maintext CODE >208:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+581 maintext CODE >209:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+593 maintext CODE >211:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+59A maintext CODE >212:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5A0 maintext CODE >212:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5AA maintext CODE >213:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5AC maintext CODE >213:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5B2 maintext CODE >214:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5B4 maintext CODE >214:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5BA maintext CODE >215:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5C0 maintext CODE >216:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5C2 maintext CODE >216:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5C6 maintext CODE >217:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5C9 maintext CODE >218:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5C9 maintext CODE >219:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5CF maintext CODE >220:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5D3 maintext CODE >218:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5DB maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5E4 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5EA maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5F0 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+5F6 maintext CODE >223:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+600 maintext CODE >224:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+601 maintext CODE >225:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+604 maintext CODE >225:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+609 maintext CODE >226:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+60C maintext CODE >226:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+611 maintext CODE >227:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+614 maintext CODE >228:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+61E maintext CODE >229:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+621 maintext CODE >230:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+62B maintext CODE >231:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+632 maintext CODE >232:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+641 maintext CODE >233:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+648 maintext CODE >234:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+64B maintext CODE >239:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+651 maintext CODE >242:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+659 maintext CODE >243:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+65F maintext CODE >244:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+664 maintext CODE >245:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+669 maintext CODE >247:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+671 maintext CODE >248:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+67E maintext CODE >249:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+68B maintext CODE >250:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+698 maintext CODE >251:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6A5 maintext CODE >253:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6AD maintext CODE >254:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6B3 maintext CODE >255:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6BB maintext CODE >256:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6C0 maintext CODE >257:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6CF maintext CODE >258:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6D0 maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6D4 maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6DB maintext CODE >260:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6E0 maintext CODE >264:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6E8 maintext CODE >265:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6EE maintext CODE >266:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6F6 maintext CODE >267:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+6FB maintext CODE >268:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+70A maintext CODE >269:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+70B maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+70F maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+716 maintext CODE >271:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+71B maintext CODE >276:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+723 maintext CODE >277:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+72A maintext CODE >282:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+730 maintext CODE >283:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+738 maintext CODE >284:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+73E maintext CODE >286:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+746 maintext CODE >287:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+74C maintext CODE >288:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+751 maintext CODE >289:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+761 maintext CODE >291:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+769 maintext CODE >292:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+76F maintext CODE >293:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+774 maintext CODE >294:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+784 maintext CODE >295:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+785 maintext CODE >297:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+78B maintext CODE >298:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+793 maintext CODE >299:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+799 maintext CODE >301:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+79E maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7A8 maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7AC maintext CODE >302:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7B0 maintext CODE >303:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7B8 maintext CODE >304:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7BE maintext CODE >305:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7C1 maintext CODE >306:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7C2 maintext CODE >308:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7CA maintext CODE >309:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+7D0 maintext CODE >310:F:\Proiecte uC\Embedded_Proj_AEMC2.0\Software\main.c
+1147 clrtext CODE >1435:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+1147 clrtext CODE >1436:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+1148 clrtext CODE >1437:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+1148 clrtext CODE >1438:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+1149 clrtext CODE >1439:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+114A clrtext CODE >1440:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+114B clrtext CODE >1441:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+114C clrtext CODE >1442:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+114D clrtext CODE >1443:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+114E clrtext CODE >1444:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+804 inittext CODE >1381:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+804 inittext CODE >1382:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+805 inittext CODE >1383:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+806 inittext CODE >1384:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+807 inittext CODE >1385:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+808 inittext CODE >1392:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+808 inittext CODE >1393:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+80D inittext CODE >1394:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+80E inittext CODE >1395:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+80F inittext CODE >1396:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+810 inittext CODE >1397:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+811 inittext CODE >1398:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+812 inittext CODE >1399:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+813 inittext CODE >1400:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+814 inittext CODE >1401:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+815 inittext CODE >1402:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
+816 inittext CODE >1403:C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_1.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -1405,7 +1405,7 @@ main@i C9 0 BANK1 1 cstackBANK1 dist/default/production\Software.production.o
 main@j C8 0 BANK1 1 cstackBANK1 dist/default/production\Software.production.o
 __Hstrings 0 0 ABS 0 strings -
 _WPUB 95 0 ABS 0 - dist/default/production\Software.production.o
-___sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+___sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 _date DC 0 BANK1 1 bssBANK1 dist/default/production\Software.production.o
 _hour E0 0 BANK1 1 bssBANK1 dist/default/production\Software.production.o
 _main 3F8 0 CODE 0 maintext dist/default/production\Software.production.o
@@ -1416,7 +1416,7 @@ _lcd_writeChar 24F0 0 CODE 0 text10 dist/default/production\Software.production.
 rtc_readTime@clock_address 74 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
 printInteger@num 69 0 BANK0 1 cstackBANK0 dist/default/production\Software.production.o
 i2c_readByte@incoming_data 71 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
-start 0 0 CODE 0 init C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+start 0 0 CODE 0 init C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 ___flmul@aexp 54 0 BANK0 1 cstackBANK0 dist/default/production\Software.production.o
 ___flmul@bexp 55 0 BANK0 1 cstackBANK0 dist/default/production\Software.production.o
 ___flmul@prod 56 0 BANK0 1 cstackBANK0 dist/default/production\Software.production.o
@@ -1431,12 +1431,12 @@ _lcd_setCursor 247E 0 CODE 0 text11 dist/default/production\Software.production.
 _rtc_convUpperNibble 235E 0 CODE 0 text5 dist/default/production\Software.production.o
 ___awmod@sign 7D 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
 __end_of_lcd_clear 235E 0 CODE 0 text13 dist/default/production\Software.production.o
-intlevel0 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 _DHT11_Start 2410 0 CODE 0 text41 dist/default/production\Software.production.o
 wtemp0 7E 0 ABS 0 - dist/default/production\Software.production.o
 __Hfunctab 0 0 ENTRY 0 functab -
@@ -1481,8 +1481,8 @@ _adc_val D6 0 BANK1 1 bssBANK1 dist/default/production\Software.production.o
 __Umul8_16@multiplicand 70 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
 _OPTION_REG 81 0 ABS 0 - dist/default/production\Software.production.o
 _HIH5030_readData 12F0 0 CODE 0 text27 dist/default/production\Software.production.o
-___stackhi 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
-___stacklo 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+___stackhi 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
+___stacklo 0 0 ABS 0 - C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 _i2c_readByte 252A 0 CODE 0 text3 dist/default/production\Software.production.o
 ___fladd@a 74 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
 ___fladd@b 70 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
@@ -1522,7 +1522,7 @@ _rtc_readDate 2A98 0 CODE 0 text2 dist/default/production\Software.production.o
 _rtc_readTime 2816 0 CODE 0 text1 dist/default/production\Software.production.o
 DHT11_readData@i 72 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
 rtc_convUpperNibble@digit 71 0 COMMON 1 cstackCOMMON dist/default/production\Software.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+___int_sp 0 0 STACK 2 stack C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -1598,7 +1598,7 @@ __HnvBANK1 0 0 ABS 0 nvBANK1 -
 __Lintentry 0 0 CODE 0 intentry -
 __stringtab 2000 0 STRING 0 strings dist/default/production\Software.production.o
 _lcd_cmd 2446 0 CODE 0 text14 dist/default/production\Software.production.o
-reset_vec 0 0 CODE 0 reset_vec C:\Users\irina\AppData\Local\Temp\xcAsj70.\driver_tmp_12.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\irina\AppData\Local\Temp\xcAs5ok.\driver_tmp_12.o
 __end_of___xxtofl 12F0 0 CODE 0 text29 dist/default/production\Software.production.o
 __pdataBANK1 E9 0 BANK1 1 dataBANK1 dist/default/production\Software.production.o
 __pdataBANK3 190 0 BANK3 1 dataBANK3 dist/default/production\Software.production.o
